@@ -1,0 +1,15 @@
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\obj\Debug\net6.0\task_home.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\obj\Debug\net6.0\task_home.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\obj\Debug\net6.0\task_home.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\obj\Debug\net6.0\task_home.AssemblyInfo.cs
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\obj\Debug\net6.0\task_home.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\bin\Debug\net6.0\task_home.exe
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\bin\Debug\net6.0\task_home.deps.json
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\bin\Debug\net6.0\task_home.runtimeconfig.json
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\bin\Debug\net6.0\task_home.dll
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\bin\Debug\net6.0\task_home.pdb
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\obj\Debug\net6.0\task_home.dll
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\obj\Debug\net6.0\refint\task_home.dll
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\obj\Debug\net6.0\task_home.pdb
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\obj\Debug\net6.0\task_home.genruntimeconfig.cache
+C:\Users\PC\Documents\GB\progr\lesson1\task_home\obj\Debug\net6.0\ref\task_home.dll
